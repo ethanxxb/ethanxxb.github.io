@@ -3,61 +3,45 @@
 	<head>
 		<title> About Me!</title>
 	</head>
-	<body>
+	<body style="background-color:black;text-align:center">
          <nav>
              <a href="index.html">
                 Home
              </a>
              <a href="aboutme.html">
                 About Me
+                 <a href="projects.html">
+                Projects
+                </a>
              </a>
          </nav
-		<section>
+		<body>
+		<section style="color: white;">
 			My name is Ethan!
-		</section>
-		<section>
-		I am 15 years old and have brown hair.
-		</section>
-		<section>
-		In my free time, I enjoy playing basketball and video games.
-        </section>
-		 <section>
-		My favorite classes are English and History.
-		</section>
-		<section>
+			<br>
+			I am 15 years old and have brown hair.
+			<br>
+			In my free time, I enjoy playing basketball and video games.
+	        <br>
+	        My favorite classes are English and History.
+		    <br>
 
-                About Me
-             </a>
-         </nav
-		<section>
-			My name is Ethan!
-		</section>
-		<section>
-		I am 15 years old and have brown hair.
-		</section>
-		<section>
-		In my free time, I enjoy playing basketball and video games.
-        </section>
-		 <section>
-		My favorite classes are English and History.
-		</section>
-		<section>
-		List of favorite animals:
+		List of my favorite foods:
 		<ul>
-		     <li>Cats</li>
-		     <li>Dogs</li>
-		     <li>Lizards</li>
-		     <li>Fish</li>
-		     <li>Zebras</li>
-		     <li>Merecats<//li>
-		     <li>Lions </li>
+		     <li>Sushi</li>
+		     <li>Hamburgers</li>
+		     <li>Penne Bolegnese</li>
+		     <li>Teryaki Chicken</li>
+		     <li>Burritos</li>
+		     <li>Pepperoni Pizza<//li>
+		     <li>BLT's </li>
 	   </ul>
 
 	</body>
 </html>
-          <section>
+          <section style= "background-color:white;">
                <img src="dog.jpg" />
-          </secrtion>     
+          </section>     
 
 
 	</body>
