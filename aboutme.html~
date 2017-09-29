@@ -24,8 +24,41 @@
 		 <section>
 		My favorite classes are English and History.
 		</section>
-				   
-				   
+		<section>
+
+                About Me
+             </a>
+         </nav
+		<section>
+			My name is Ethan!
+		</section>
+		<section>
+		I am 15 years old and have brown hair.
+		</section>
+		<section>
+		In my free time, I enjoy playing basketball and video games.
+        </section>
+		 <section>
+		My favorite classes are English and History.
+		</section>
+		<section>
+		List of favorite animals:
+		<ul>
+		     <li>Cats</li>
+		     <li>Dogs</li>
+		     <li>Lizards</li>
+		     <li>Fish</li>
+		     <li>Zebras</li>
+		     <li>Merecats<//li>
+		     <li>Lions </li>
+	   </ul>
+
+	</body>
+</html>
+          <section>
+               <img src="dog.jpg" />
+          </secrtion>     
+
 
 	</body>
 </html>
