@@ -2,7 +2,7 @@
      <head>
           <title>Welcome</title>
      </head>
-     <body>
+     <body style="background-color:black;text-align:center;color:white;">
       <nav>
              <a href="index.html">
                 Home
@@ -10,10 +10,16 @@
              <a href="aboutme.html">
                 About Me
              </a>
+             <a href="projects.html">
+                Projects
+                </a>
          </nav
           Welcome 
           <section>
-          My name is Ethan.
+          This is my website!
+          Click "About Me" above to learn more about my life and who I am!
+            
           </section>
      </body>
+        
  </html>
